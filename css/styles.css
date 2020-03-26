@@ -1,10 +1,19 @@
-/* #adult, #minor {
+#adult, #minor {
 display: none;
-} */
+}
 body {
   background-image: url(https://bit.ly/2QNMd0E);
+  font-family: 'Poppins', sans-serif;
+}
+h2, h3 {
+color: blue;
+font-family: 'Abril Fatface', cursive;
 }
 
-a [
-  color :white;
-]
+a {
+  color: white;
+}
+a:hover {
+color: red;
+}
+  
